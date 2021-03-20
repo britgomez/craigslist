@@ -192,7 +192,17 @@ font-style: normal;
     top: 10px;
     left: 150px;
 }
+.detail{
+    width: 300px;
+    height:150px;
+    top:100px;
+}
 
+.map{
+    position:relative;
+    top:400px;
+    right:90px;
+}
 
 #mainMenu {
     margin: 10px;
